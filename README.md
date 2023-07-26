@@ -1,2 +1,2 @@
-# SelfStudyTraining
-Example for frontend development
+# HTML_CSS_Training
+Examples for frontend development
